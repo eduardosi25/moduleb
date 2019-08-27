@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "file": "public_api.js",
+  "sources": [
+    "ng://modulea/projects/modulea/src/public_api.ts"
+  ],
+  "sourcesContent": [
+    "/*\r\n * Public API Surface of modulea\r\n */\r\n\r\nexport * from './lib/modulea.service';\r\nexport * from './lib/modulea.component';\r\nexport * from './lib/modulea.module';\r\n"
+  ],
+  "names": [],
+  "mappings": ";;;;;;;AAIA,uDAAsC;AACtC,2DAAwC;AACxC,qDAAqC"
+}

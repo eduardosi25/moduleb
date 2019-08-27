@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "file": "modulea.js",
+  "sources": [
+    "ng://modulea/projects/modulea/src/modulea.ts"
+  ],
+  "sourcesContent": [
+    "/**\n * Generated bundle index. Do not edit.\n */\n\nexport * from './public_api';\n"
+  ],
+  "names": [],
+  "mappings": ";;;;;;;AAIA,+EAA6B"
+}
